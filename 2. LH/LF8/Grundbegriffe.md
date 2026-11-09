@@ -32,4 +32,3 @@ Vorgehensmodelle: Wasserfall / Agile / DevOps / CI/CD:
 Wasserfallmodel:![[Vorgehensmodelle_260914_105619.jpg]]
 
 
-
