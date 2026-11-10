@@ -37,6 +37,7 @@ FUNKTIONEN (Methoden):
     - übersichtlich
     - wiederverwendbar
     - Fehlersuche 
+    ![[Funktionen_261110_114005 (1).jpg]]
 
 
 
@@ -45,10 +46,12 @@ FELD (Array)
 	- Wahlfreier Zugriff (index)
 	- merhdimensional 
 	
-	- Aufbau:
+- Aufbau:
+![[FELD_261110_121335 (1).jpg]]
+	
 	- Zwanzig
 		- sort [3] = 20 
 
 
 INITIALISIERUNG:
-	- 
+![[Initialisierung_261110_122618 (2).jpg]]
