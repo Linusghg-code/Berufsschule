@@ -38,3 +38,17 @@ FUNKTIONEN (Methoden):
     - wiederverwendbar
     - Fehlersuche 
 
+
+
+FELD (Array)
+	- Elemente gleichen Datentyps
+	- Wahlfreier Zugriff (index)
+	- merhdimensional 
+	
+	- Aufbau:
+	- Zwanzig
+		- sort [3] = 20 
+
+
+INITIALISIERUNG:
+	- 
